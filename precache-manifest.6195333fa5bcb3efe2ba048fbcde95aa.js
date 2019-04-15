@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/reduxBankApp/static/js/runtime~main.3cc35d96.js"
   },
   {
-    "revision": "60987a400d56077ddb08",
-    "url": "/reduxBankApp/static/js/main.f1507aa6.chunk.js"
+    "revision": "3c1147935f0901a319ff",
+    "url": "/reduxBankApp/static/js/main.2d1ca033.chunk.js"
   },
   {
     "revision": "26e034e47bc44d8853c7",
     "url": "/reduxBankApp/static/js/2.11293560.chunk.js"
   },
   {
-    "revision": "60987a400d56077ddb08",
+    "revision": "3c1147935f0901a319ff",
     "url": "/reduxBankApp/static/css/main.00a0a772.chunk.css"
   },
   {
-    "revision": "2d4c6f7cd1c52ecea5548f8b8d84d278",
+    "revision": "971756a498decdaa8c31b89f010a1580",
     "url": "/reduxBankApp/index.html"
   }
 ];
