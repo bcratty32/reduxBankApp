@@ -17,7 +17,7 @@ const ButtonGroup = ({ amounts }) => (
                 key={`btn-${i}`}
                 onClick={dispatchWithDrawAction}
             >
-                WITHDRAW €{amount}
+                WITHDRAW ${amount}
             </button>
         ))}
         <br />
